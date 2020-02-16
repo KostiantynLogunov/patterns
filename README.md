@@ -1,8 +1,8 @@
 # Patterns
 
 ###	 SOLID
-* **SRP** `(Single Responsibility Principle)`
-* **OCP** `(Open / Close Principle)`
-* **LSP** `(Liskov Substitution Principle)`
-* **ISP** `(Interface Segregation Principle)`
-* __DIP__ `(Dependency Inversion Principle)`
+* **S**RP `(Single Responsibility Principle)`
+* **O**CP `(Open / Close Principle)`
+* **L**SP `(Liskov Substitution Principle)`
+* **I**SP `(Interface Segregation Principle)`
+* __D__IP `(Dependency Inversion Principle)`
