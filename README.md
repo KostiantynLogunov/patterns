@@ -6,3 +6,5 @@
 * **L**SP `(Liskov Substitution Principle)`
 * **I**SP `(Interface Segregation Principle)`
 * **D**IP `(Dependency Inversion Principle)`
+
+###	 SINGLETON
