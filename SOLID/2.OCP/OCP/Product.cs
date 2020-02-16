@@ -1,24 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace SRP
+namespace OCP
 {
     public class Product
     {
-        private Logger logger;
+        private ILogger logger;
 
-        public Product(Logger logger)
+        public Product(ILogger logger)
         {
             this.logger = logger;
         }
 
-        public void SetPrice(double price)
+        public void SetPriceOfProduct(double price)
         {
             try
             {
                 //to save a price value to DB 
-                Console.WriteLine("trying to set new value of price.....");
+                Console.WriteLine("trying to set new value of price....."+price);
                 throw new Exception("some simulation exception...");
             }
             catch (Exception ex)
