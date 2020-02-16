@@ -5,4 +5,4 @@
 * **O**CP `(Open / Close Principle)`
 * **L**SP `(Liskov Substitution Principle)`
 * **I**SP `(Interface Segregation Principle)`
-* __D__IP `(Dependency Inversion Principle)`
+* **D**IP `(Dependency Inversion Principle)`
