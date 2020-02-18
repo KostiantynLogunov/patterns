@@ -18,3 +18,5 @@
 ### Fectory Method
 
 ### Abstract Factory
+
+### Strategy
