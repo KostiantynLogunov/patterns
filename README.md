@@ -8,3 +8,9 @@
 * **D**IP `(Dependency Inversion Principle)`
 
 ###	 SINGLETON
+
+### Inversion of Control(IoC), DependencyInjection(DI)
+
+### Abstract Factory
+
+### Adapter
