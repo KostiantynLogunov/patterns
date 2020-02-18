@@ -7,10 +7,12 @@
 * **I**SP `(Interface Segregation Principle)`
 * **D**IP `(Dependency Inversion Principle)`
 
-###	 SINGLETON
+###	 Singleton
 
 ### Inversion of Control(IoC), DependencyInjection(DI)
 
 ### Abstract Factory
 
 ### Adapter
+
+### Simple Factory
