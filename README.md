@@ -11,8 +11,10 @@
 
 ### Inversion of Control(IoC), DependencyInjection(DI)
 
-### Abstract Factory
-
 ### Adapter
 
 ### Simple Factory
+
+### Fectory Method
+
+### Abstract Factory
