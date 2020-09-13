@@ -19,7 +19,7 @@
             var snow = new Subscriber("Jon Snow");
 
             //подпищики подписываются что кому интересно
-            newsChannel.subscribe("highgarden-newsk", cersei);
+            newsChannel.subscribe("highgarden-news", cersei);
             newsChannel.subscribe("winterfell-news", sansa);
             
             newsChannel.subscribe("highgarden-news", arya);
