@@ -1,0 +1,13 @@
+C:\dev\Patterns\Delegation\obj\Debug\netcoreapp3.1\Delegation.csprojAssemblyReference.cache
+C:\dev\Patterns\Delegation\obj\Debug\netcoreapp3.1\Delegation.AssemblyInfoInputs.cache
+C:\dev\Patterns\Delegation\obj\Debug\netcoreapp3.1\Delegation.AssemblyInfo.cs
+C:\dev\Patterns\Delegation\obj\Debug\netcoreapp3.1\Delegation.csproj.CoreCompileInputs.cache
+C:\dev\Patterns\Delegation\bin\Debug\netcoreapp3.1\Delegation.exe
+C:\dev\Patterns\Delegation\bin\Debug\netcoreapp3.1\Delegation.deps.json
+C:\dev\Patterns\Delegation\bin\Debug\netcoreapp3.1\Delegation.runtimeconfig.json
+C:\dev\Patterns\Delegation\bin\Debug\netcoreapp3.1\Delegation.runtimeconfig.dev.json
+C:\dev\Patterns\Delegation\bin\Debug\netcoreapp3.1\Delegation.dll
+C:\dev\Patterns\Delegation\bin\Debug\netcoreapp3.1\Delegation.pdb
+C:\dev\Patterns\Delegation\obj\Debug\netcoreapp3.1\Delegation.dll
+C:\dev\Patterns\Delegation\obj\Debug\netcoreapp3.1\Delegation.pdb
+C:\dev\Patterns\Delegation\obj\Debug\netcoreapp3.1\Delegation.genruntimeconfig.cache

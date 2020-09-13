@@ -1,0 +1,13 @@
+C:\dev\Patterns\PatternEventChannel\bin\Debug\netcoreapp3.1\PatternEventChannel.exe
+C:\dev\Patterns\PatternEventChannel\bin\Debug\netcoreapp3.1\PatternEventChannel.deps.json
+C:\dev\Patterns\PatternEventChannel\bin\Debug\netcoreapp3.1\PatternEventChannel.runtimeconfig.json
+C:\dev\Patterns\PatternEventChannel\bin\Debug\netcoreapp3.1\PatternEventChannel.runtimeconfig.dev.json
+C:\dev\Patterns\PatternEventChannel\bin\Debug\netcoreapp3.1\PatternEventChannel.dll
+C:\dev\Patterns\PatternEventChannel\bin\Debug\netcoreapp3.1\PatternEventChannel.pdb
+C:\dev\Patterns\PatternEventChannel\obj\Debug\netcoreapp3.1\PatternEventChannel.csprojAssemblyReference.cache
+C:\dev\Patterns\PatternEventChannel\obj\Debug\netcoreapp3.1\PatternEventChannel.AssemblyInfoInputs.cache
+C:\dev\Patterns\PatternEventChannel\obj\Debug\netcoreapp3.1\PatternEventChannel.AssemblyInfo.cs
+C:\dev\Patterns\PatternEventChannel\obj\Debug\netcoreapp3.1\PatternEventChannel.csproj.CoreCompileInputs.cache
+C:\dev\Patterns\PatternEventChannel\obj\Debug\netcoreapp3.1\PatternEventChannel.dll
+C:\dev\Patterns\PatternEventChannel\obj\Debug\netcoreapp3.1\PatternEventChannel.pdb
+C:\dev\Patterns\PatternEventChannel\obj\Debug\netcoreapp3.1\PatternEventChannel.genruntimeconfig.cache
